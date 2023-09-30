@@ -850,6 +850,15 @@ a {
         font-size: 13px;
     }
 
+    .sec4-title h2 {
+        color: #000;
+        font-family: 'nunito';
+        font-size: 34px;
+        line-height: 112.9%;
+        width: 514px;
+        margin-top: 8rem;
+    }
+
 
 
     .sec5 {
