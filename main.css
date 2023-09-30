@@ -808,10 +808,7 @@ a {
         font-size: 15px;
     }
     .no1 h4 {
-        width: 70px;
-        height: 35px;
-        border-radius: 50%;
-        font-size: 14px;
+        padding: 10px;
     }
     .no1 h2 {
         font-size: 17px;
@@ -823,10 +820,7 @@ a {
 
 
     .no2 h4 {
-        width: 70px;
-        height: 35px;
-        border-radius: 50%;
-        font-size: 14px;
+        padding: 10px;
     }
     .no2 h2 {
         font-size: 17px;
@@ -838,10 +832,7 @@ a {
 
 
     .no3 h4 {
-        width: 70px;
-        height: 35px;
-        border-radius: 50%;
-        font-size: 14px;
+        padding: 10px;
     }
     .no3 h2 {
         font-size: 17px;
